@@ -1,0 +1,6 @@
+Disk: 8GB should be enough
+Image: Ubuntu 22.04
+CPU: Single
+Memory: 2048
+Swap: 512
+Features: Nesting; NFS; SMB/CIFS;
